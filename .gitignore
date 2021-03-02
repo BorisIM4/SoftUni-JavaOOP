@@ -2,3 +2,7 @@
 *.zip
 *.xml
 *.iml
+*.class
+*.java
+*.idea
+

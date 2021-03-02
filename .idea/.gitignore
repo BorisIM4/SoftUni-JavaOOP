@@ -5,6 +5,7 @@
 /vcs.xml
 *.xml
 *.iml
-
+*.class
+*.java
 
 
