@@ -1,7 +1,6 @@
-package restaurant;
+package L3_Inheritance_Exercises.P5_Restaurant;
 
 import java.math.BigDecimal;
-import java.util.Iterator;
 
 public class Product {
     private String name;
