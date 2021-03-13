@@ -8,7 +8,7 @@ public class Person {
     private double money;
     private List<Product> products;
 
-//+ 	Person (String ,  double)
+//+ 	L4_Interfaces_and_Abstraction_Exercises.P1_Define_an_Interface_Person.Person (String ,  double)
 
     public Person(String name, double money) {
         this.setName(name);
