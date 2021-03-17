@@ -43,7 +43,7 @@ public class Main {
 
 
 /*
-        Field[] fields = Reflection.class.getDeclaredFields();
+        Field[] fields = L7_Reflection.P3_High_Quality_Mistakes.Reflection.class.getDeclaredFields();
         Arrays.stream(fields)
                 .filter(f -> !Modifier.isPrivate(f.getModifiers()))
                 .sorted((Comparator.comparing(Field::getName)))
