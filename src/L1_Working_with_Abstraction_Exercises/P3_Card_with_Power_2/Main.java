@@ -11,5 +11,6 @@ public class Main {
 
         Card card = new Card(rank, suit);
         System.out.println(card.toString());
+
     }
 }
