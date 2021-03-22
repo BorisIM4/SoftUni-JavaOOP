@@ -1,4 +1,4 @@
-package L7_Reflection_Exercises.P3_BarracksWars.models.interfaces;
+package L7_Reflection_Exercises.P3_BarracksWars.interfaces;
 
 public interface CommandInterpreter {
 

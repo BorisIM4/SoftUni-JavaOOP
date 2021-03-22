@@ -1,7 +1,7 @@
-package L7_Reflection_Exercises.P3_BarracksWars.models.data;
+package L7_Reflection_Exercises.P3_BarracksWars.data;
 
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.Repository;
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.Unit;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.Repository;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.Unit;
 import jdk.jshell.spi.ExecutionControl;
 
 import java.util.Map;

@@ -1,6 +1,6 @@
 package L7_Reflection_Exercises.P3_BarracksWars.models.units;
 
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.Unit;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.Unit;
 
 public abstract class AbstractUnit implements Unit {
     private int health;

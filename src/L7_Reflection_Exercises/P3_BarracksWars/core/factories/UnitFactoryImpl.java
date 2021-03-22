@@ -1,7 +1,7 @@
-package L7_Reflection_Exercises.P3_BarracksWars.models.core.factories;
+package L7_Reflection_Exercises.P3_BarracksWars.core.factories;
 
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.Unit;
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.UnitFactory;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.Unit;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.UnitFactory;
 
 import java.lang.reflect.InvocationTargetException;
 

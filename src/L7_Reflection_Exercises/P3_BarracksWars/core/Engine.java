@@ -1,9 +1,9 @@
-package L7_Reflection_Exercises.P3_BarracksWars.models.core;
+package L7_Reflection_Exercises.P3_BarracksWars.core;
 
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.Repository;
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.Runnable;
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.Unit;
-import L7_Reflection_Exercises.P3_BarracksWars.models.interfaces.UnitFactory;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.Repository;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.Runnable;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.Unit;
+import L7_Reflection_Exercises.P3_BarracksWars.interfaces.UnitFactory;
 import jdk.jshell.spi.ExecutionControl;
 
 import java.io.BufferedReader;
