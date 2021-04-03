@@ -23,10 +23,10 @@ public class Main {
             if ("end".equals(input = scanner.nextLine())) {
                 break;
             }
-            int usernumber = Integer.parseInt(input);
-            int indexOfFoundValue = binarySearch(sortedNumbers, usernumber);
+            int userNumber = Integer.parseInt(input);
+            int indexOfFoundValue = binarySearch(sortedNumbers, userNumber);
 
-            isFound(indexOfFoundValue, usernumber);
+            isFound(indexOfFoundValue, userNumber);
         }
     }
 
